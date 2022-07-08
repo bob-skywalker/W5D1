@@ -129,7 +129,7 @@ p second_anagram?("elvis", "lives")
 
 
 
-
-def two_sum?
-
+#nested loop way
+def long_two_sum?(arr, target_sum)
+    ()
 end 
